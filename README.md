@@ -36,7 +36,7 @@ Fanfou Cli for Node.js
 [![](https://img.shields.io/badge/unicorn-approved-ff69b4.svg)](https://www.youtube.com/watch?v=9auOCbH5Ns4)
 [![](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-## chalk-pipe
+## [chalk-pipe](https://github.com/LitoMore/chalk-pipe)
 
 Create chalk style schemes with simpler style strings
 
@@ -45,7 +45,7 @@ Create chalk style schemes with simpler style strings
 [![](https://img.shields.io/npm/l/chalk-pipe.svg)](https://github.com/LitoMore/chalk-pipe/blob/master/LICENSE)
 [![](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
 
-## chalk-pipe-cli
+## [chalk-pipe-cli](https://github.com/LitoMore/chalk-pipe-cli)
 
 CLI module for chalk-pipe
 
