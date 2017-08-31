@@ -14,6 +14,23 @@ Alfred 3 workflow for Fanfou
 [![](https://img.shields.io/npm/l/alfred-fanfou.svg)](https://github.com/LitoMore/alfred-fanfou/blob/master/LICENSE)
 [![](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+## [chalk-pipe](https://github.com/LitoMore/chalk-pipe)
+
+Create chalk style schemes with simpler style strings
+
+[![](https://img.shields.io/travis/LitoMore/chalk-pipe/master.svg)](https://travis-ci.org/LitoMore/chalk-pipe)
+[![](https://img.shields.io/npm/v/chalk-pipe.svg)](https://www.npmjs.com/package/chalk-pipe)
+[![](https://img.shields.io/npm/l/chalk-pipe.svg)](https://github.com/LitoMore/chalk-pipe/blob/master/LICENSE)
+[![](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
+
+## [chalk-pipe-cli](https://github.com/LitoMore/chalk-pipe-cli)
+
+CLI module for chalk-pipe
+
+[![](https://img.shields.io/travis/LitoMore/chalk-pipe/master.svg)](https://travis-ci.org/LitoMore/chalk-pipe-cli)
+[![](https://img.shields.io/npm/v/chalk-pipe-cli.svg)](https://www.npmjs.com/package/chalk-pipe-cli)
+[![](https://img.shields.io/npm/l/chalk-pipe-cli.svg)](https://github.com/LitoMore/chalk-pipe-cli/blob/master/LICENSE)
+[![](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
 
 ## [fanfou-sdk-node](https://github.com/LitoMore/fanfou-sdk-node)
 
@@ -37,24 +54,6 @@ Fanfou Cli for Node.js
 [![](https://img.shields.io/npm/l/nofan.svg)](https://github.com/LitoMore/nofan/blob/master/LICENSE)
 [![](https://img.shields.io/badge/unicorn-approved-ff69b4.svg)](https://www.youtube.com/watch?v=9auOCbH5Ns4)
 [![](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-
-## [chalk-pipe](https://github.com/LitoMore/chalk-pipe)
-
-Create chalk style schemes with simpler style strings
-
-[![](https://img.shields.io/travis/LitoMore/chalk-pipe/master.svg)](https://travis-ci.org/LitoMore/chalk-pipe)
-[![](https://img.shields.io/npm/v/chalk-pipe.svg)](https://www.npmjs.com/package/chalk-pipe)
-[![](https://img.shields.io/npm/l/chalk-pipe.svg)](https://github.com/LitoMore/chalk-pipe/blob/master/LICENSE)
-[![](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
-
-## [chalk-pipe-cli](https://github.com/LitoMore/chalk-pipe-cli)
-
-CLI module for chalk-pipe
-
-[![](https://img.shields.io/travis/LitoMore/chalk-pipe/master.svg)](https://travis-ci.org/LitoMore/chalk-pipe-cli)
-[![](https://img.shields.io/npm/v/chalk-pipe-cli.svg)](https://www.npmjs.com/package/chalk-pipe-cli)
-[![](https://img.shields.io/npm/l/chalk-pipe-cli.svg)](https://github.com/LitoMore/chalk-pipe-cli/blob/master/LICENSE)
-[![](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
 
 ## License
 
