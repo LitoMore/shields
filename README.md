@@ -1,5 +1,7 @@
 # shields
 
+[![](https://img.shields.io/badge/Say%20Thanks!-:\)-1EAEDB.svg)](https://saythanks.io/inbox#badge-modal)
+
 All my shields are here
 
 ## [alfred-fanfou](https://github.com/LitoMore/alfred-fanfou)
