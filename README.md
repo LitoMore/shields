@@ -1,6 +1,6 @@
 # shields
 
-[![](https://img.shields.io/badge/Say%20Thanks!-:\)-1EAEDB.svg)](https://saythanks.io/inbox#badge-modal)
+[![](https://img.shields.io/badge/Say%20Thanks!-:\)-1EAEDB.svg)](https://saythanks.io/to/LitoMore)
 
 All my shields are here
 
