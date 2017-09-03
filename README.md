@@ -14,6 +14,14 @@ Alfred 3 workflow for Fanfou
 [![](https://img.shields.io/npm/l/alfred-fanfou.svg)](https://github.com/LitoMore/alfred-fanfou/blob/master/LICENSE)
 [![](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+## [cerebro-fanfou](https://github.com/LitoMore/cerebro-fanfou)
+
+A Cerebro plugin for Fanfou
+
+[![](https://img.shields.io/npm/v/cerebro-fanfou.svg)](https://www.npmjs.com/package/cerebro-fanfou)
+[![](https://img.shields.io/npm/l/cerebro-fanfou.svg)](https://github.com/LitoMore/cerebro-fanfou/blob/master/LICENSE)
+[![](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
 ## [chalk-pipe](https://github.com/LitoMore/chalk-pipe)
 
 Create chalk style schemes with simpler style strings
@@ -50,14 +58,6 @@ Prompt for input chalk-pipe style strings
 [![](https://img.shields.io/npm/v/inquirer-chalk-pipe.svg)](https://www.npmjs.com/package/inquirer-chalk-pipe)
 [![](https://img.shields.io/npm/l/inquirer-chalk-pipe.svg)](https://github.com/LitoMore/inquirer-chalk-pipe/blob/master/LICENSE)
 [![](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
-
-## [cerebro-fanfou](https://github.com/LitoMore/cerebro-fanfou)
-
-A Cerebro plugin for Fanfou
-
-[![](https://img.shields.io/npm/v/cerebro-fanfou.svg)](https://www.npmjs.com/package/cerebro-fanfou)
-[![](https://img.shields.io/npm/l/cerebro-fanfou.svg)](https://github.com/LitoMore/cerebro-fanfou/blob/master/LICENSE)
-[![](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## [nofan](https://github.com/LitoMore/nofan)
 
