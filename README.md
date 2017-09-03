@@ -51,6 +51,14 @@ Prompt for input chalk-pipe style strings
 [![](https://img.shields.io/npm/l/inquirer-chalk-pipe.svg)](https://github.com/LitoMore/inquirer-chalk-pipe/blob/master/LICENSE)
 [![](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
 
+# cerebro-fanfou
+
+A Cerebro plugin for Fanfou
+
+[![](https://img.shields.io/npm/v/cerebro-fanfou.svg)](https://www.npmjs.com/package/cerebro-fanfou)
+[![](https://img.shields.io/npm/l/cerebro-fanfou.svg)](https://github.com/LitoMore/cerebro-fanfou/blob/master/LICENSE)
+[![](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
 ## [nofan](https://github.com/LitoMore/nofan)
 
 Fanfou Cli for Node.js
