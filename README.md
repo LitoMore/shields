@@ -4,6 +4,14 @@
 
 All my shields are here
 
+## [alfred-bower](https://github.com/LitoMore/alfred-bower)
+
+Alfred 3 workflow to search for bower packages with Libraries.io
+
+[![](https://img.shields.io/npm/v/alfred-bower.svg)](https://www.npmjs.com/package/alfred-bower)
+[![](https://img.shields.io/npm/l/alfred-bower.svg)](https://github.com/LitoMore/alfred-bower/blob/master/LICENSE)
+[![](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
 ## [alfred-fanfou](https://github.com/LitoMore/alfred-fanfou)
 
 Alfred 3 workflow for Fanfou
