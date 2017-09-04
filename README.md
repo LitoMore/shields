@@ -59,6 +59,16 @@ Fanfou SDK for Node.js
 [![](https://img.shields.io/npm/l/fanfou-sdk.svg)](https://github.com/LitoMore/fanfou-sdk-node/blob/master/LICENSE)
 [![](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+## [fanfou-streamer](https://github.com/LitoMore/fanfou-streamer)
+
+Fanfou Streaming SDK for Node.js
+
+[![](https://img.shields.io/travis/LitoMore/fanfou-streamer/master.svg)](https://travis-ci.org/LitoMore/fanfou-streamer)
+[![](https://img.shields.io/npm/v/fanfou-streamer.svg)](https://www.npmjs.com/package/fanfou-streamer)
+[![](https://img.shields.io/npm/l/fanfou-streamer.svg)](https://github.com/LitoMore/fanfou-streamer/blob/master/LICENSE)
+[![](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
+
 ## [inquirer-chalk-pipe](https://github.com/LitoMore/inquirer-chalk-pipe)
 
 Prompt for input chalk-pipe style strings
